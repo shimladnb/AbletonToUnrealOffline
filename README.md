@@ -11,5 +11,5 @@ USE:
  
 NOTES:
 
-  It records everything with a build in clock, that clock runs at 30 fps. You can turn off "use heavy clock" if you want the m4l device to be less precisce but more efficiently if   you're running into CPU performance issues. 
+It records everything with a build in clock, that clock runs at 30 fps. You can turn off "use heavy clock" if you want the m4l device to be less precisce but more efficient. This could be handy if you're running into CPU performance issues. 
 
