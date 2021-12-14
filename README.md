@@ -6,7 +6,7 @@ USE:
   - Drag the .amxd files onto either a midi or audio track in ableton. 
   - Just hit play and let it play. The devices will automatically record anything that's being played on the track 
   - Preview your recorded CSV file by clicking "open"
-  - Write the actual file with "write", don't forget to add .csv to the file at the end when saving it to your storage
+  - Write the actual file with "write", don't forget to add .csv to the file at the end when saving it to your storage device
   - hit the "clear" button if you want to start over. It will only clear the data for that track
  
 NOTES:
